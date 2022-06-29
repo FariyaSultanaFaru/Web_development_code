@@ -1,0 +1,28 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.header {
+    background: #23232e;
+}
+.head{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.cont_area{
+    color: #fff;
+}
+.cont_area h1{
+    text-transform: uppercase;
+}
+span{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+.about_area_img{
+    
+   
+}
